@@ -1,0 +1,7 @@
+tensorflow
+mediapipe
+numpy
+gTTS
+playsound==1.2.2
+gradio
+Pillow
