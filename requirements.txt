@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==2.19.1
 mediapipe==0.10.14
 numpy
 gTTS
